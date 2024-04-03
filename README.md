@@ -25,4 +25,4 @@ $ ./build.sh lint
 # to build release project
 $ ./build.sh build
 ```
-
+> This project is the result of my learning from the tutorial i saw :u
